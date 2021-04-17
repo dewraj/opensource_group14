@@ -16,7 +16,10 @@ OSSE Group14 - [Open source assignment](https://septblast.github.io/opensource_g
 ---
 For all the contributers who are planning to work on the project please follow contrubution aggrement. To know more about the details of contribution aggrement [click here!!](./CONTRIBUTING.md)
 <br/>
-<br/>
+
+### Code of Conduct:
+---
+To all the Contributers who are planning to push code for fixes and addresing Issues raised, are requested to follow the Code of Conduct. [click here!!](./CODE_OF_CONDUCT.md)
 
 
 ### Tech Stack Used:
@@ -29,8 +32,6 @@ For all the contributers who are planning to work on the project please follow c
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<br/>
-<br/>
 <br/>
 
 
@@ -49,7 +50,4 @@ Following are the images for the sample running project.
 ![App View](./images/AppView.png)
 <br />
 
-### Code of Conduct:
----
-To all the Contributers who are planning to push code for fixes and addresing Issues raised, are requested to follow the Code of Conduct. [click here!!](./CODE_OF_CONDUCT.md)
 
